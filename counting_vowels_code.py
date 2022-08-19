@@ -12,7 +12,7 @@ number = count_vowels(phrase)
 
 print(number)
 
-print ( f' In the phrase: " {phrase}" hay {number} vowels.')    
+print ( f' In the phrase: " {phrase}" are {number} vowels.')    
 
 
 
@@ -29,7 +29,7 @@ number = count_vowels(phrase)
 
 print(number)
 
-print ( f' In the phrase: " {phrase}" hay {number} vocales.')    
+print ( f' In the phrase: " {phrase}" are {number} vocales.')    
 
 #only consonants
 def count_notvowels(phrase):
@@ -46,4 +46,4 @@ number = count_notvowels(phrase)
 
 print(number)
 
-print ( f' In the phrase: " {phrase}" hay {number} consonants.')    
+print ( f' In the phrase: " {phrase}" are {number} consonants.')    
