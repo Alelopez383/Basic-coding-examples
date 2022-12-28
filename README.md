@@ -1,4 +1,4 @@
-# Basi coding exercises using Python
+# Basic coding exercises using Python
 
 1. Bulding a star
 2. Bubble sort
