@@ -6,3 +6,4 @@
 4. Prime numbers
 5. Checking for Palindromes
 6. Counting letters
+7. Sorting numbers
